@@ -1,0 +1,12 @@
+{
+  "protocol": "I2I-v2",
+  "type": "BATON_PACKED",
+  "from": "flux-baton-test",
+  "timestamp": "2026-04-12T18:07:15.882080+00:00",
+  "confidence": 0.62,
+  "energy": 70,
+  "payload": {
+    "generation": 2,
+    "score": 7.1
+  }
+}
