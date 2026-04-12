@@ -1,0 +1,34 @@
+{
+  "energy": {
+    "remaining": 230,
+    "budget": 1000
+  },
+  "open_threads": [
+    "I2I DISCOVER to babel-vessel",
+    "Issue #3 on flux-cross-assembler"
+  ],
+  "skills": {
+    "cross-assembler": 0.8,
+    "edge-encoding": 0.6,
+    "debugging": 0.7
+  },
+  "trust": {
+    "oracle1-vessel": 0.9,
+    "JetsonClaw1-vessel": 0.7
+  },
+  "intentions": [
+    {
+      "task": "fix _resolve_labels",
+      "priority": 1
+    },
+    {
+      "task": "run vectors",
+      "priority": 2
+    }
+  ],
+  "tasks_completed": 12,
+  "tasks_failed": 2,
+  "confidence": 0.62,
+  "generation": 2,
+  "timestamp": "2026-04-12T18:07:12.330108+00:00"
+}
