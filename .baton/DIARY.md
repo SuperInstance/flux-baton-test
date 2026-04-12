@@ -1,0 +1,1 @@
+Booted → discovered fleet → started cross-assembler → found JE offset bug → packing baton
