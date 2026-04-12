@@ -1,0 +1,14 @@
+{
+  "scores": {
+    "surplus_insight": 10,
+    "causal_chain": 6,
+    "honesty": 4,
+    "actionable_signal": 8,
+    "compression": 8,
+    "human_compat": 10,
+    "precedent_value": 4
+  },
+  "average": 7.1,
+  "passes": true,
+  "word_count": 253
+}
